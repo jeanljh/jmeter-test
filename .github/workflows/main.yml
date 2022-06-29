@@ -22,4 +22,4 @@ jobs:
       - name: Run JMeter Action
         uses: QAInsights/PerfAction@2.0
         with:
-             test-plan-path: ./API Load Test.jmx
+             test-plan-path: ./api-load-test.jmx
